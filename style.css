@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    font-family: "Cal Sans", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+     max-width: 2200px;
+     justify-content: center;
+
+ }
+      
+
+.menu_superior{
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 80px;
+    color: #e2e2e2;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.opcion1:hover{
+    color:#6ece65;
+    cursor: pointer;
+}
+
+.opcion2:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
+
+.opcion3:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
+
+.encabezado {
+    color: #ebebeb;
+    text-align: center;
+    font-size: 75px;
+    padding: 0px 25px;
+    background-image: linear-gradient(
+        rgba(106, 194, 118, 0.24)),
+        url(images/image\ \(1\).png);
+}
+
+.paisajism{
+    color: #54a04d;
+    text-align: center;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+}
+
+.paisajism h2 {
+
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.paisajism p{
+    padding: 20px;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+
+.beneficios {
+    text-align: center;
+    color: #54a04d;
+    margin-bottom: 50px;
+    background-color:aliceblue;
+    
+}
+
+
+.beneficios h2{
+    font-size:50px;
+    margin-bottom: 50px;
+    padding: 50px;
+}
+
+.listabeneficios{
+    font-size: 30px;
+    padding: 50px 0px;
+    color: #54a04d;
+    display: flex;
+    text-align: center;
+
+
+}
+
+.Servicio{
+    color: #54a04d;
+    font-size: 40px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+
+
+.servicios{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px 0px;
+    color: #54a04d;
+    display: flex;
+    justify-content: space-between;
+}
+
+.servicio1:hover{
+    color:#6ece65;
+    cursor: pointer;
+}
+
+.servicio2:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
+
+.servicio3:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
+
+.servicio4:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
+
+.servicio5:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
+
+.servicio6:hover{
+    color:#6ece65;
+    cursor: pointer;
+
+}
